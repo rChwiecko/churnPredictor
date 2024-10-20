@@ -1,0 +1,3 @@
+one hot encoding: Convert catagorical variables to numeric variables
+scaling helps prevent features with large values from skewing results
+bootstrapping is when you have a relatively small dataset, and you collect subsets of the original dataset and collect the average accuracy of the model accross those subsets
